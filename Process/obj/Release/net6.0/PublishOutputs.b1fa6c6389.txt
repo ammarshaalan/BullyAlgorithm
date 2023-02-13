@@ -1,0 +1,5 @@
+D:\bully\bully\Process.exe
+D:\bully\bully\Process.dll
+D:\bully\bully\Process.deps.json
+D:\bully\bully\Process.runtimeconfig.json
+D:\bully\bully\Process.pdb
