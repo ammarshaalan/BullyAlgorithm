@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mW/hqYhRWy10ZsV34rbnZeKM8WP6KujtW2MeyFt26PUvVdOJ72w73dTsO/YIIT0cZFPiTDxqPY211JrjwG0kPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ammar.shaalan\\source\\repos\\ConsoleApp8\\ConsoleApp8\\Process.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ammar.shaalan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.8\\microsoft.netcore.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\ammar.shaalan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\ammar.shaalan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\ammar.shaalan\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.8\\microsoft.netcore.app.crossgen2.win-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

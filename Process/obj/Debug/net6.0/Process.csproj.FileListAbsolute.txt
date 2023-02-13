@@ -1,0 +1,15 @@
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Process.exe
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Process.deps.json
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Process.runtimeconfig.json
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Process.dll
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\Process.pdb
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.csproj.AssemblyReference.cache
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.AssemblyInfoInputs.cache
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.AssemblyInfo.cs
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.csproj.CoreCompileInputs.cache
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.dll
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\Process.dll
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.pdb
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\Process.genruntimeconfig.cache
+C:\Users\ammar.shaalan\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\Process.dll
