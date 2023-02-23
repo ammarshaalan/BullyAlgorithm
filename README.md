@@ -1,7 +1,7 @@
 # Bully Algorithm
 
 ## Introduction
-This project contains two programs, the `server` and `process`, that use TCP communication to simulate the Bully algorithm.
+This project contains two programs, the `server` and `process`, that use TCP communication to simulate the Bully algorithm without using Threading.
 
 ## Running the Project
 
